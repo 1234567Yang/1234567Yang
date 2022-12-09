@@ -5,8 +5,8 @@
 - 📫 Yang2906455468@gmail.com
 
 精神状态：
-if (FindBUG = true){
-  if (SolveTheBUG = true){
+if&nbsp(FindBUG&nbsp=&nbsptrue){
+&nbsp&nbspif&nbsp(SolveTheBUG&nbsp=&nbsptrue){
     printf("happy~");
     }else{
     printf("Very upset and morose, /*/*/*/* stupid");

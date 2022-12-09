@@ -14,7 +14,7 @@ if&nbsp;(FindBUG&nbsp;=&nbsp;true){<br>
 &nbsp;&nbsp;&nbsp;&nbsp;printf("Very&nbsp;upset&nbsp;and&nbsp;morose,&nbsp;/*/*/*/*&nbsp;stupid");<br>
 &nbsp;&nbsp;&nbsp;&nbsp;}<br>
 &nbsp;&nbsp;else{<br>
-&nbsp;&nbsp;printf("Making&nbsp;something&nbsp;new&nbsp;and&nbsp;preparing&nbsp;for&nbsp;tests...);<br>
+&nbsp;&nbsp;printf("Making&nbsp;something&nbsp;new&nbsp;and&nbsp;preparing&nbsp;for&nbsp;tests...");<br>
 &nbsp;&nbsp;}<br>
 return&nbsp;(0);<br>
 

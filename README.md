@@ -7,9 +7,12 @@
 精神状态：
 <br>
 <br>
+FindBUG&nbsp;=&nbsp;1;<br>Solve&nbsp;=&nbsp;0;
+<br>
+<br>
 if&nbsp;(FindBUG&nbsp;=&nbsp;true){<br>
 &nbsp;&nbsp;if&nbsp;(SolveTheBUG&nbsp;=&nbsp;true){<br>
-&nbsp;&nbsp;&nbsp;&nbsp;printf("happy~");<br>
+&nbsp;&nbsp;&nbsp;printf("happy~");<br>
 &nbsp;&nbsp;&nbsp;&nbsp;}else{<br>
 &nbsp;&nbsp;&nbsp;&nbsp;printf("Very&nbsp;upset&nbsp;and&nbsp;morose,&nbsp;/*/*/*/*&nbsp;stupid");<br>
 &nbsp;&nbsp;&nbsp;&nbsp;}<br>

@@ -21,6 +21,7 @@ if&nbsp;(FindBUG&nbsp;=&nbsp;true){<br>
 &nbsp;&nbsp;}<br>
 return&nbsp;(0);<br>
 
+![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 1234567Yang/1234567Yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

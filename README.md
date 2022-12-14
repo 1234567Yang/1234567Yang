@@ -1,3 +1,8 @@
+![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=glenn-jocher&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-jocher&hide_border=true" />
+</p>
 - 👋 Hi, I’m @1234567Yang
 - 👀 I’m interested in Web/UI/System
 - 🌱 I’m currently learning Machine Learning
@@ -21,7 +26,6 @@ if&nbsp;(FindBUG&nbsp;=&nbsp;true){<br>
 &nbsp;&nbsp;}<br>
 return&nbsp;(0);<br>
 
-![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 1234567Yang/1234567Yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

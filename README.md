@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning Machine Learning
 
 - 📫 Yang2906455468@gmail.com
-![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=1234567Yang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=1234567Yang&hide_border=true" />
+
+![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
 </p>
 精神状态：
 <br>

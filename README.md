@@ -11,7 +11,9 @@
 
 ![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
 </p>
-精神状态：
+
+
+<!--精神状态：
 <br>
 <br>
 FindBUG&nbsp;=&nbsp;1;<br>Solve&nbsp;=&nbsp;0;
@@ -27,7 +29,7 @@ if&nbsp;(FindBUG&nbsp;=&nbsp;true){<br>
 &nbsp;&nbsp;printf("Making&nbsp;something&nbsp;new&nbsp;and&nbsp;preparing&nbsp;for&nbsp;tests...");<br>
 &nbsp;&nbsp;}<br>
 return&nbsp;(0);<br>
-
+-->
 
 <!---
 1234567Yaang/1234567Yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

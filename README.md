@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @1234567Yang
-- 👀 I’m interested in Web/UI/System
-- 🌱 I’m currently learning Machine Learning / C++ / C#
+- 👀 I’m interested in Web/UI/System/E
+- 🌱 I’m currently learning C++/C#
 
 - 📫 Yang2906455468@gmail.com
 

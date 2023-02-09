@@ -8,12 +8,10 @@
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=1234567Yang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=1234567Yang&hide_border=true" />
-
-  <img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg">
-  <br>
-  ![snake gif](https://github.com/1234567Yang/1234567Yang/blob/output/github-contribution-grid-snake.gif)
 </p>
 
+
+<img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg">
 
 <!--精神状态：
 <br>

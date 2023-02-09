@@ -11,10 +11,9 @@
 </p>
 
 <br><br>
-<div style="width:100%;text-align:center">
-<img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg">
 
-</div>
+<img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg" style="text-align:center;margin-left:auto;margin-right:auto;">
+
 
 <!--精神状态：
 <br>

@@ -10,8 +10,11 @@
 <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=1234567Yang&hide_border=true" />
 </p>
 
-
+<br><br>
+<div style="width:100%;text-align:center">
 <img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg">
+
+</div>
 
 <!--精神状态：
 <br>

@@ -18,7 +18,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!--
 ```
 起来，饥寒交迫的奴隶！
 起来，全世界受苦的人！
@@ -75,4 +75,4 @@ You can click the Preview link to take a look at your changes.
 就一定要实现！
 ```
 
-
+-->

@@ -1,7 +1,9 @@
 - 📫 admin@lhyang.shop
 
+<div align="center">
+  <img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg" style="text-align:center;margin-left:auto;margin-right:auto;">
+</div>
 
-<img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg" style="text-align:center;margin-left:auto;margin-right:auto;">
 <!--
 ⠀⠀⠀⠀⠀⠰⢷⢿⠄<br>
 ⠀⠀⠀⠀⠀⠀⣼⣷⣄<br>
@@ -21,6 +23,13 @@ You can click the Preview link to take a look at your changes.
 **作为使用价值，商品首先有质的差别；作为交换价值，商品只能有量的差别**，因而不包含任何一个使用价值的原子。价值量的实际变化不能明确地，也不能完全地反映在价值量的相对表现即相对价值量上。即使商品的价值不变，它的相对价值也可能发生变化。即使商品的价值发生变化，它的相对价值也可能不变，最后，商品的价值量和这个价值量的相对表现同时发生的变化，完全不需要一致。
 
 商品在能够**作为价值实现以前，必须证明自己是使用价值**，因为耗费在商品上的人类劳动，只有耗费在对别人有用的形式上，才能算数。但是，这种劳动对别人是否有用，它的产品是否能够满足别人的需要，只有在商品交换中才能得到证明。每一个商品所有者都只想让渡自己的商品，来换取别种具有能够满足他本人需要的使用价值的商品。
+
+<div align="center">
+  
+  **你问我为啥写这俩句话，到时候你会来我主页再把这两句话翻出来的。**
+  
+</div>
+<br>
 
 ```
 起来，饥寒交迫的奴隶！

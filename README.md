@@ -20,10 +20,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-# HELP ME WITH MY CURRENT SURVEY (anonymous)
-## https://docs.google.com/forms/d/e/1FAIpQLSfw3Y-yi0VEiBTdf5mDsOto4uoCa9vx9kqQYbcCc0GBS9TEqw/viewform?usp=sf_link
-
-<br><br>
+<br>
 
 **作为使用价值，商品首先有质的差别；作为交换价值，商品只能有量的差别**，因而不包含任何一个使用价值的原子。价值量的实际变化不能明确地，也不能完全地反映在价值量的相对表现即相对价值量上。即使商品的价值不变，它的相对价值也可能发生变化。即使商品的价值发生变化，它的相对价值也可能不变，最后，商品的价值量和这个价值量的相对表现同时发生的变化，完全不需要一致。
 

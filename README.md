@@ -1,4 +1,4 @@
-- 📫 admin@lhyang.shop
+- 📫 contact@lhyang.org
 
 <div align="center">
   <img src="https://github.com/1234567Yang/1234567Yang/blob/main/05_avatar_big.jpg" style="text-align:center;margin-left:auto;margin-right:auto;">

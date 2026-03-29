@@ -1,7 +1,7 @@
 Hello there~
 
 Restricted area, the follow things should not enter:
-* ❌ Vibe coded content without even understand the code
+* ❌ Vibe coded content without even understanding the code
 * ❌ Resume filling projects
 * ❌ Dogs and/or their excrement
 
